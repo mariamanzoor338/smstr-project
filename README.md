@@ -1,1 +1,1 @@
-# smstr-project
+# Project Description
