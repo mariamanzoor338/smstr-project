@@ -57,3 +57,7 @@
 #### Pharmasists
 #### Labortary
 #### Admin
+# USECASE DAIGRAM
+# ![usecase](https://user-images.githubusercontent.com/102031024/161131991-30640137-b3d2-4017-ad4a-3e2451435986.png)
+DOMAIN MODEL DAIGRAM
+![domain](https://user-images.githubusercontent.com/102031024/161131739-d8d6bf34-1e06-41ad-828e-ff2a684dcac1.jpg)
