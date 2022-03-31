@@ -1,6 +1,6 @@
 # Project name: Health Care Management
 
-# Description
+## Description
 ####	Our project is about health care management in which the patient can take appointment with doctor. The Appointment Can be physical or online (video call). Patient can ask for the prescription
 ####	Patient Can order medicine.
 ####	Patient can book lab test
