@@ -36,3 +36,24 @@
 #### Search
 #### Address
 #### Delivery
+## Use Cases In our Project
+#### Login
+#### Register
+#### See Patient Record
+#### Search Doctor via Speciality
+#### Book Appoinment
+#### Order Medicine
+#### Fine nearby Hospital
+#### Book lab test
+#### View lab report
+#### View Doctors Detail
+#### Check patient
+#### Take medicine Order
+#### Generate Lab Report
+#### Manage Data
+## Actors In Our Project
+#### Patient
+#### Doctor
+#### Pharmasists
+#### Labortary
+#### Admin
