@@ -61,6 +61,48 @@
 ## ![usecase](https://user-images.githubusercontent.com/102031024/161131991-30640137-b3d2-4017-ad4a-3e2451435986.png)
 ## DOMAIN MODEL DAIGRAM
 ![domain](https://user-images.githubusercontent.com/102031024/161131739-d8d6bf34-1e06-41ad-828e-ff2a684dcac1.jpg)
+## Actor Goal's
+### Patient	
+##### •	Login to the System
+##### •	Book Appointment with doctor
+##### •	Book Lab Test
+##### •	Order Medicine
+##### •	Pay bill’s
+##### •	View Lab report
+##### •	Receive order
+##### •	Search nearby hospital
+##### •	Ask questions from doctor
+##### •	Ask for prescription
+##### •	Logout from the system
+### Doctor	
+##### •	Login to the System
+##### •	View patient lab report
+##### •	Check patient’s
+##### •	Upload prescription
+##### •	Answer the Patient Question
+##### •	Get salary
+##### •	Show Availability
+##### •	Can ask patient for lab test
+##### •	Logout from system
+### Lab Assistant	
+##### •	Login to the system
+##### •	Accept lab test request
+##### •	Generate lab report
+##### •	Show availability
+##### •	Logout from the system
+### Pharmacists	
+##### •	Login to the system
+##### •	Accept medicine order
+##### •	Deliver medicine
+##### •	Generate bill
+##### •	Logout from the system
+### Admin	
+##### •	Manage System
+##### •	Manage system security
+##### •	Update system
+##### •	Update database
+##### •	Manage records
+
 ## Expanded Use Case
 ### Name	Check Patient
 ### Actor	Doctor
