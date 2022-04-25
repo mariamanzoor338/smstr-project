@@ -57,10 +57,13 @@
 #### Pharmasists
 #### Labortary
 #### Admin
-## USECASE DAIGRAM
+## USECASE DIAGRAM
 ## ![usecase](https://user-images.githubusercontent.com/102031024/161131991-30640137-b3d2-4017-ad4a-3e2451435986.png)
-## DOMAIN MODEL DAIGRAM
+## DOMAIN MODEL DIAGRAM
 ![domain](https://user-images.githubusercontent.com/102031024/161131739-d8d6bf34-1e06-41ad-828e-ff2a684dcac1.jpg)
+## ClASS DIAGRAM
+![ClassDiagram1](https://user-images.githubusercontent.com/102031894/165048250-66ba52fd-d410-48cc-b3cd-725bfd42a1fe.png)
+
 ## Actor Goal's
 ### Patient	
 ##### •	Login to the System
