@@ -198,3 +198,38 @@
 ##### System will ask for permission
 ##### User will verify it
 ##### System will upload it
+
+## Use Case	Search Doctor
+### Actor	Patient
+### Type	Primary
+### Description	
+##### User will enter username and password
+##### System will verify the username and password. After validation system will show home page
+##### User will click on Search Doctor Button
+##### System will show list of doctor and search option
+##### User will search for any doctor
+##### System will show doctor 
+
+## Use Case	Order Medicine
+### Actor	Patient
+### Type	Primary
+#### Description
+##### User will enter username and password
+##### System will verify the username and password. After validation system will show home page
+##### User will click the Order Medicine button
+##### System will show list of medicine with discounts
+##### User will select the medicine and put it to cart
+##### After completion the system will ask for payment
+##### User will select the payment method and pay
+
+### Use Case	Search Hospital
+### Actor	Patient
+### Type	Primary
+### Description	
+##### User will enter username and password
+##### System will verify the username and password. After validation system will show home page
+##### User will click on Search Hospital Button
+##### System will show list of Hospital’s and search option
+##### User will search for any Hospital
+##### System will show Hospital profile
+
