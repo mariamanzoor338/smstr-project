@@ -192,11 +192,11 @@
 ###### The system validate the user name and password, and show home page
 
 ## Use Case	Check Patient Record
-#### Actor
+### Actor
 ###### Doctor
-#### Type	
+### Type	
 ###### Primary
-#### Description
+### Description
 ###### Use will enter username and password
 ###### System will validate the user and show homepage
 ###### User will select the check patient record
@@ -205,11 +205,11 @@
 ###### System will show his all medical report
 
 ## Use Case	Book Lab Test
-#### Actor	
+### Actor	
 ###### Patient
-#### Type	
+### Type	
 ###### Primary
-#### Description	
+### Description	
 ###### User will enter username and password
 ###### System will verify the username and password. After validation system will show home page
 ###### User will click on the book lab test button
@@ -230,7 +230,7 @@
 ###### Patient
 ### Type
 ###### Primary
-#### Description	
+### Description	
 ###### User will enter username and password
 ###### System will verify the username and password. After validation system will show home page
 ###### User will click on Search Doctor Button
@@ -251,11 +251,11 @@
 ###### User will take order and dispatch it to the given address
 
 ## Use Case	View Lab Report
-#### Actor	
+### Actor	
 ###### Patient, Doctor
-#### Type	
+### Type	
 ###### Primary
-#### Description	
+### Description	
 ###### User will enter username and password
 ###### System will verify the username and password. After validation system will show home page
 ###### User will click on the view lab report button
@@ -269,9 +269,9 @@
 
 
 ## Use Case	Generate lab report
-#### Actor	
+### Actor	
 ###### Lab Assistant
-#### Type	
+### Type	
 ###### Primary
 ### Description	
 ###### User will enter username and password
@@ -308,8 +308,10 @@
 ##### User will select the payment method and pay
 
 ## Use Case	Search Hospital
-### Actor	Patient
-### Type	Primary
+### Actor
+###### Patient
+### Type	
+###### Primary
 ### Description	
 ##### User will enter username and password
 ##### System will verify the username and password. After validation system will show home page
@@ -319,11 +321,11 @@
 ##### System will show Hospital profile
 
 ## Use case	Manage Data
-#### Actor	
+### Actor	
 ###### Admin
-#### Type	
+### Type	
 ###### Primary
-#### Description
+### Description
 ###### User will enter username and password
 ###### System will verify the username and password. After validation system will show home page
 ###### Now user can accept the request of new doctor patient lab assistant pharmacists
