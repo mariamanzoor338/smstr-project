@@ -170,6 +170,17 @@
 
 # BRIEF USECASE
 
+## Use Case	Create Account
+#### Actor
+###### Doctor, Patient, Pharmacists, Lab Assistant
+#### Type	
+###### Essential
+#### Description
+###### User Click on Create Account Button
+###### System will show the Registration Form and ask the user to fill it accordingly
+###### User will fill the from and submit it 
+###### System will send a verification email to user and the user will registered to the system 
+
 ## Use Case	Login
 #### Actor	
 ###### Doctor, Patient, Pharmacists, Lab Assistant
@@ -192,17 +203,7 @@
 ###### System will show list of patient
 ###### User will select the patient for which user want to check his medical report
 ###### System will show his all medical report
-
-## Use Case	Create Account
-#### Actor
-###### Doctor, Patient, Pharmacists, Lab Assistant
-#### Type	
-###### Essential
-#### Description
-###### User Click on Create Account Button
-###### System will show the Registration Form and ask the user to fill it accordingly
-###### User will fill the from and submit it 
-###### System will send a verification email to user and the user will registered to the system 
+ 
 
 ## Use Case	Book Lab Test
 #### Actor	
@@ -248,18 +249,20 @@
 ###### User will take order and dispatch it to the given address
 
 ## Use Case	Generate lab report
-### Actor	Lab Assistant
-### Type	Primary
+#### Actor	
+###### Lab Assistant
+#### Type	
+###### Primary
 ### Description	
-##### User will enter username and password
-##### System will verify the username and password. After validation system will show home page
-##### User will click on the view book lab report button
-##### System will show list of booked lab test
-##### User will select the patient with their  unique key
-##### User will upload the lab report
-##### System will ask for permission
-##### User will verify it
-##### System will upload it
+###### User will enter username and password
+###### System will verify the username and password. After validation system will show home page
+###### User will click on the view book lab report button
+###### System will show list of booked lab test
+###### User will select the patient with their  unique key
+###### User will upload the lab report
+###### System will ask for permission
+###### User will verify it
+###### System will upload it
 
 ## Use Case	Search Doctor
 ### Actor	Patient
