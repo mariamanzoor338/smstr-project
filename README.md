@@ -175,7 +175,7 @@
 ##### User will search for any doctor
 ##### System will show doctor profile
 
-### Use Case	Take Medicine Order
+## Use Case	Take Medicine Order
 ### Actor	Pharmacists
 ### Type	Primary
 ### Description	
@@ -185,7 +185,7 @@
 ##### System will show the different order from different patient
 ##### User will take order and dispatch it to the given address
 
-### Use Case	Generate lab report
+## Use Case	Generate lab report
 ### Actor	Lab Assistant
 ### Type	Primary
 #### Description	
