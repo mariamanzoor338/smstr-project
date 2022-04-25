@@ -222,7 +222,7 @@
 ##### After completion the system will ask for payment
 ##### User will select the payment method and pay
 
-### Use Case	Search Hospital
+## Use Case	Search Hospital
 ### Actor	Patient
 ### Type	Primary
 ### Description	
