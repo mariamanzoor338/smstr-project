@@ -167,6 +167,21 @@
 ### Technology and data variations list	
 ##### •	User can login through Face lock
 ##### •	Use can login though finger print
+
+# BRIEF USECASE
+
+## Use Case	Login
+#### Actor	
+###### Doctor, Patient, Pharmacists, Lab Assistant
+#### Type	
+###### Primary
+#### Description
+###### System Request the Actor to enter the user name and password
+###### User enter the user name and password
+###### The system validate the user name and password, and show home page
+
+
+
 ## Use Case	View Doctor Profile
 ### Actor	Patient
 ### Type	Primary
