@@ -188,7 +188,7 @@
 ## Use Case	Generate lab report
 ### Actor	Lab Assistant
 ### Type	Primary
-#### Description	
+### Description	
 ##### User will enter username and password
 ##### System will verify the username and password. After validation system will show home page
 ##### User will click on the view book lab report button
