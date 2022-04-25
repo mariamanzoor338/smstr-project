@@ -318,3 +318,14 @@
 ##### User will search for any Hospital
 ##### System will show Hospital profile
 
+## Use case	Manage Data
+#### Actor	
+###### Admin
+#### Type	
+###### Primary
+#### Description
+###### User will enter username and password
+###### System will verify the username and password. After validation system will show home page
+###### Now user can accept the request of new doctor patient lab assistant pharmacists
+###### User can update the Record
+###### User can reset password for other user
