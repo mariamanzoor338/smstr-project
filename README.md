@@ -181,6 +181,16 @@
 ###### The system validate the user name and password, and show home page
 
 
+## Use Case	Create Account
+#### Actor
+###### Doctor, Patient, Pharmacists, Lab Assistant
+#### Type	
+###### Essential
+#### Description
+###### User Click on Create Account Button
+###### System will show the Registration Form and ask the user to fill it accordingly
+###### User will fill the from and submit it 
+###### System will send a verification email to user and the user will registered to the system 
 
 ## Use Case	View Doctor Profile
 ### Actor	Patient
