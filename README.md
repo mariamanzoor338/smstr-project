@@ -180,6 +180,19 @@
 ###### User enter the user name and password
 ###### The system validate the user name and password, and show home page
 
+## Use Case	Check Patient Record
+#### Actor
+###### Doctor
+#### Type	
+###### Primary
+#### Description
+###### Use will enter username and password
+###### System will validate the user and show homepage
+###### User will select the check patient record
+###### System will show list of patient
+###### User will select the patient for which user want to check his medical report
+###### System will show his all medical report
+
 
 ## Use Case	Create Account
 #### Actor
