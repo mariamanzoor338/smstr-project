@@ -168,33 +168,33 @@
 ### Actor	Patient
 ### Type	Primary
 #### Description	
-#### User will enter username and password
-#### System will verify the username and password. After validation system will show home page
-#### User will click on Search Doctor Button
-#### System will show list of doctor and search option
-#### User will search for any doctor
-#### System will show doctor profile
+##### User will enter username and password
+##### System will verify the username and password. After validation system will show home page
+##### User will click on Search Doctor Button
+##### System will show list of doctor and search option
+##### User will search for any doctor
+##### System will show doctor profile
 
 ### Use Case	Take Medicine Order
 ### Actor	Pharmacists
 ### Type	Primary
 ### Description	
-#### User will enter username and password
-#### System will verify the username and password. After validation system will show home page
-#### User will click on view medicine order Button
-#### System will show the different order from different patient
-#### User will take order and dispatch it to the given address
+##### User will enter username and password
+##### System will verify the username and password. After validation system will show home page
+##### User will click on view medicine order Button
+##### System will show the different order from different patient
+##### User will take order and dispatch it to the given address
 
 ### Use Case	Generate lab report
 ### Actor	Lab Assistant
 ### Type	Primary
-### Description	
-#### User will enter username and password
-#### System will verify the username and password. After validation system will show home page
-#### User will click on the view book lab report button
-#### System will show list of booked lab test
-#### User will select the patient with their  unique key
-#### User will upload the lab report
-#### System will ask for permission
-#### User will verify it
-#### System will upload it
+#### Description	
+##### User will enter username and password
+##### System will verify the username and password. After validation system will show home page
+##### User will click on the view book lab report button
+##### System will show list of booked lab test
+##### User will select the patient with their  unique key
+##### User will upload the lab report
+##### System will ask for permission
+##### User will verify it
+##### System will upload it
