@@ -203,7 +203,24 @@
 ###### System will show list of patient
 ###### User will select the patient for which user want to check his medical report
 ###### System will show his all medical report
- 
+
+## Use Case	Book Lab Test
+#### Actor	
+###### Patient
+#### Type	
+###### Primary
+#### Description	
+###### User will enter username and password
+###### System will verify the username and password. After validation system will show home page
+###### User will click on the book lab test button
+###### System will show list of laboratory
+###### User will select the laboratory
+###### System will show further detail of that laboratory
+###### User will select the test type.
+###### System will ask for payment method
+###### User will select the payment method 
+###### System will send the conformation email along with unique id to user
+
 
 ## Use Case	Book Lab Test
 #### Actor	
