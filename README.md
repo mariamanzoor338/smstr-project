@@ -222,22 +222,7 @@
 ###### System will send the conformation email along with unique id to user
 
 
-## Use Case	Book Lab Test
-#### Actor	
-###### Patient
-#### Type	
-###### Primary
-#### Description	
-###### User will enter username and password
-###### System will verify the username and password. After validation system will show home page
-###### User will click on the book lab test button
-###### System will show list of laboratory
-###### User will select the laboratory
-###### System will show further detail of that laboratory
-###### User will select the test type.
-###### System will ask for payment method
-###### User will select the payment method 
-###### System will send the conformation email along with unique id to user
+
 
 
 ## Use Case	View Doctor Profile
@@ -264,6 +249,24 @@
 ###### User will click on view medicine order Button
 ###### System will show the different order from different patient
 ###### User will take order and dispatch it to the given address
+
+## Use Case	View Lab Report
+#### Actor	
+###### Patient, Doctor
+#### Type	
+###### Primary
+#### Description	
+###### User will enter username and password
+###### System will verify the username and password. After validation system will show home page
+###### User will click on the view lab report button
+###### System will show list of laboratories
+###### User will select the laboratory in which user booked the test
+###### System will ask for unique id
+###### User will enter unique id
+###### System will validate the id and show report
+###### Also, system will prompt for view and download option
+
+
 
 ## Use Case	Generate lab report
 #### Actor	
